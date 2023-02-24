@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/zach-snell/wg-easy
+  repository: ghcr.io/nulledout/wireguard-multi
   pullPolicy: IfNotPresent
   tag: latest
 
